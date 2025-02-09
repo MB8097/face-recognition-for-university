@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091130619111",
+    "project_id": "facerec-f3141",
+    "storage_bucket": "facerec-f3141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091130619111:android:9a04f41ca633cb4da4de42",
+        "android_client_info": {
+          "package_name": "com.example.face_rec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz274F1L0DtYf16xQ4BgkFIb7lYP7K0rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
